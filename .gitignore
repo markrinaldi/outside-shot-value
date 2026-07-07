@@ -13,3 +13,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.log
+
+# Scratch notebooks
+notebooks/_scratch*.ipynb
+notebooks/*_working.ipynb
